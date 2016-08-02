@@ -11,6 +11,8 @@ Please download program depending on your OS.
 
 ## Make sure you are on "Simply The Best Free Wifi"
 
+NOTE: if you are in "Nakatomi" or VPN, that may not be able to let you sync blockchain database.
+
 ![](./01_wifi.png)
 
 ## Install the program and open it.
