@@ -5,6 +5,7 @@
 Please download program depending on your OS.
 
 -[Mac](https://github.com/ethereum/mist/releases/download/0.8.1/Mist-macosx-0-8-1.zip)
+
 -[Windows](https://github.com/ethereum/mist/releases/download/0.8.1/Mist-win64-0-8-1.zip)
 
 
